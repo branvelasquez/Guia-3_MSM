@@ -55,18 +55,4 @@ div {
 
     
 }
-@media screen and (min-width: 768px) and (max-width: 1024px) {
-    /* Estilos para pantallas de laptops */
-    
-    body {
-        font-size: 16px; /* Tamaño de la fuente de la página */
-        background-color: #ADD8E6; /* Color de fondo celeste */
-    }
 
-    div {
-        width: 75%; /* El ancho del div será del 75% */
-        margin: 0 auto; /* Centra el div en la página */
-        padding: 20px; /* Espaciado interno */
-        background-color: white; /* Fondo blanco para el div */
-    }
-}
